@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 A passionate learner and aspiring developer💡 Exploring creative ways to build responsive, modern, and user-friendly applications  <br>🌐 Love turning ideas into reality through code and design  <br>📍 Based in Nepal
+🚀 A passionate learner and aspiring developer💡<br> Exploring creative ways to build responsive, modern, and user-friendly applications  <br>🌐 Love turning ideas into reality through code and design  <br>📍 Based in Nepal
 
 
 ## 🌐 Socials:
